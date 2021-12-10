@@ -87,10 +87,10 @@ https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdjagpiqzs0d/b/UmbuM/o/image
 </html>
 <?php
 }
-else {
-	echo "<script>
-		alert('Anda Harus Login Dahulu!');
-	</script>";
-	header('location:login.php');
-}
+// else {
+// 	echo "<script>
+// 		alert('Anda Harus Login Dahulu!');
+// 	</script>";
+// 	header('location:login.php');
+// }
 ?>
